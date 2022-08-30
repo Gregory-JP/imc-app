@@ -1,3 +1,5 @@
-# Calculadora IMC feita em React Native
+# Calculadora IMC 
+
+feita em React Native
 
 Incompleta...
